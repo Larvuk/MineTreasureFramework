@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Mine Treasure Framework",
+  "Author": "larvuk",
+  "Version": "1.2.0",
+  "Description": "Edit treasures from treasure chest floors in the mine.",
+  "UniqueID": "larvuk.MineTreasureFramework",
+  "EntryDll": "MineTreasureFramework.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:28262" ]
+}
